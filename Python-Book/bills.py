@@ -20,7 +20,7 @@ food=750
 leisure=500
 subtotal=leisure+food+condo_repairs+auto_gas+phone+electric+water+hoa+internet+insurance
 expenses=subtotal+land+xterra+psu
-income=8000
+income=7500
 
 print "HOA              : ",hoa
 print "Water            : ",water
