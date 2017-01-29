@@ -17,8 +17,8 @@ auto_gas=(miles/mpg)*3
 home_gas=75
 condo_repairs=200
 food=750
-leisure=600
-subtotal=leisure+food+condo_repairs+auto_gas+phone+electric+water+hoa+internet+insurance
+etc=600
+subtotal=etc+food+condo_repairs+auto_gas+phone+electric+water+hoa+internet+insurance
 expenses=subtotal+land+xterra+psu
 income=7500
 
@@ -31,7 +31,7 @@ print "Repairs/upgrades : ",condo_repairs
 print "Insurance        : ",insurance
 print "Auto Gas         : ",auto_gas
 print "Home Gas         : ",home_gas
-print "Leisure          : ",leisure
+print "ETC              : ",etc
 print "Food             : ",food
 print "Subtotal         : ",subtotal
 print "Xterra           : ",xterra
