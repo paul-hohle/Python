@@ -22,7 +22,7 @@ cord=''.join(letters)
 
 print all,divider,head,divider,tail,divider,rand,divider,subset,divider,join,divider,many, divider,letters,divider,word,divider,cord
 
-sentence="Liberals are children"
+sentence="Liberals act like children"
 words=sentence.split(' ') 
 print words
 
