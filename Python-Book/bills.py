@@ -22,6 +22,9 @@ subtotal=etc+food+condo_repairs+auto_gas+phone+electric+water+hoa+internet+insur
 expenses=subtotal+land+xterra+psu
 income=7500
 
+#**********************************************************************
+
+
 print "HOA              : ",hoa
 print "Water            : ",water
 print "Internet         : ",internet
