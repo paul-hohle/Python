@@ -4,6 +4,7 @@
 # Expenses and income
 #
 #
+#
 
 water=45
 hoa=277
